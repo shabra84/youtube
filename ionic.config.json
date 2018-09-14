@@ -1,0 +1,7 @@
+{
+  "name": "reproductor_1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
